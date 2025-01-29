@@ -1,2 +1,2 @@
 # palindrome
-program on palindrome
+This program used to swap two numbers
